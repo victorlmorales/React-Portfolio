@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Space Junkies",
+        "image": "https://github.com/TMortara/Space-Junkies/raw/main/assets/images/SpaceJunkiesMain.png",
+        "github": "https://github.com/TMortara/Space-Junkies",
+        "deploy": "https://tmortara.github.io/Space-Junkies/",
+        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+    },
+    {
+        "id": 2,
+        "name": "Code Quiz",
+        "image": "https://github.com/victorlmorales/code-quiz/raw/main/assets/img/code-quiz-screenshot.png",
+        "github": "https://github.com/victorlmorales/Code-Quiz",
+        "deploy": "https://victorlmorales.github.io/Code-Quiz/",
+        "topics": "HTML5, CSS, Javascript"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/victorlmorales/weather-dashboard/raw/main/assets/img/weather dashboard.png",
+        "github": "https://github.com/victorlmorales/Weather-Dashboard",
+        "deploy": "https://victorlmorales.github.io/Weather-Dashboard/",
+        "topics": "HTML5, CSS, Javascript, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Password Generator",
+        "image": "https://github.com/victorlmorales/password-generator/raw/main/assets/img/initial.png",
+        "github": "https://github.com/victorlmorales/password-generator",
+        "deploy": "https://victorlmorales.github.io/password-generator/",
+        "topics": "HTML5, CSS, Javascript"
+    },
+    {
+        "id": 6,
+        "name": "Work Day Scheduler",
+        "image": "https://github.com/victorlmorales/work-day-scheduler/raw/main/assets/img/workday-scheduler-screenshot.png",
+        "github": "https://github.com/fondofhats/workday-scheduler",
+        "deploy": "https://fondofhats.github.io/workday-scheduler/",
+        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+    }
+]
